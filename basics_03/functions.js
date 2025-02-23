@@ -16,3 +16,8 @@ function add2Num(n1,n2){
 add2Num(9,5)
 add2Num(9,null)
 add2Num(6,"k") //concatenate
+
+// git branch -m main master
+// git fetch origin
+// git branch -u origin/master master
+// git remote set-head origin -a
