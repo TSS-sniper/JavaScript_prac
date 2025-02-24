@@ -63,4 +63,3 @@ function handleUser(anyobject){
 handleUser({username: "Yeti",
     bill:500
 })
-
