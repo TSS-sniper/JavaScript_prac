@@ -44,3 +44,5 @@ const objt = () => ({username: "TSS"})
 
 
 console.log(addTwo(3, 4))
+console.log(objt());
+
